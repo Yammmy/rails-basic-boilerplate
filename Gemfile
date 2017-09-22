@@ -33,8 +33,10 @@ gem 'jbuilder', '~> 2.5'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
-gem 'awesome_rails_console'
-gem 'bootsnap', require: false
+gem 'awesome_rails_console' # better console
+gem 'bootsnap', require: false # boost rails app
+gem 'bootstrap-sass'
+gem 'jquery-rails'
 
 group :development, :test do
   gem 'rspec-rails'
