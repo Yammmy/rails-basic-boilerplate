@@ -39,6 +39,7 @@ gem 'bootstrap-sass'
 gem 'jquery-rails'
 gem 'simple_form'
 gem 'font-awesome-rails'
+gem 'devise'
 
 group :development, :test do
   gem 'rspec-rails'
