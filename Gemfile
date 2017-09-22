@@ -38,6 +38,7 @@ gem 'bootsnap', require: false # boost rails app
 gem 'bootstrap-sass'
 gem 'jquery-rails'
 gem 'simple_form'
+gem 'font-awesome-rails'
 
 group :development, :test do
   gem 'rspec-rails'
