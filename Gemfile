@@ -37,6 +37,7 @@ gem 'awesome_rails_console' # better console
 gem 'bootsnap', require: false # boost rails app
 gem 'bootstrap-sass'
 gem 'jquery-rails'
+gem 'simple_form'
 
 group :development, :test do
   gem 'rspec-rails'
